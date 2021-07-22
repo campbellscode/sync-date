@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vn77+Aza/0UzU+RAInjCELigHmYKBTLbP7nJJL9qgWcgs10hYeaw1COCukx6LIkyinTn1iB63gftdrzq/Sj4TA==",
+  "success": true,
+  "projectFilePath": "F:\\vs19Dev\\.NetCore3.1\\SyncDate\\SyncDate\\SyncDate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kidka\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.17\\microsoft.netcore.app.runtime.win-x64.3.1.17.nupkg.sha512",
+    "C:\\Users\\kidka\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.17\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.17.nupkg.sha512",
+    "C:\\Users\\kidka\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.17\\microsoft.aspnetcore.app.runtime.win-x64.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}

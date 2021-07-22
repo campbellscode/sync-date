@@ -1,0 +1,2 @@
+F:\vs19Dev\.NetCore3.1\SyncDate\SyncDate\bin\x64\Release\Publish\SyncDate.pdb
+F:\vs19Dev\.NetCore3.1\SyncDate\SyncDate\bin\x64\Release\Publish\SyncDate.exe

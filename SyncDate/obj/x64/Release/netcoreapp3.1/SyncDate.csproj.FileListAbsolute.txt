@@ -1,0 +1,13 @@
+F:\vs19Dev\.NetCore3.1\SyncDate\SyncDate\bin\x64\Release\netcoreapp3.1\SyncDate.exe
+F:\vs19Dev\.NetCore3.1\SyncDate\SyncDate\bin\x64\Release\netcoreapp3.1\SyncDate.deps.json
+F:\vs19Dev\.NetCore3.1\SyncDate\SyncDate\bin\x64\Release\netcoreapp3.1\SyncDate.runtimeconfig.json
+F:\vs19Dev\.NetCore3.1\SyncDate\SyncDate\bin\x64\Release\netcoreapp3.1\SyncDate.runtimeconfig.dev.json
+F:\vs19Dev\.NetCore3.1\SyncDate\SyncDate\bin\x64\Release\netcoreapp3.1\SyncDate.dll
+F:\vs19Dev\.NetCore3.1\SyncDate\SyncDate\bin\x64\Release\netcoreapp3.1\SyncDate.pdb
+F:\vs19Dev\.NetCore3.1\SyncDate\SyncDate\obj\x64\Release\netcoreapp3.1\SyncDate.csproj.AssemblyReference.cache
+F:\vs19Dev\.NetCore3.1\SyncDate\SyncDate\obj\x64\Release\netcoreapp3.1\SyncDate.AssemblyInfoInputs.cache
+F:\vs19Dev\.NetCore3.1\SyncDate\SyncDate\obj\x64\Release\netcoreapp3.1\SyncDate.AssemblyInfo.cs
+F:\vs19Dev\.NetCore3.1\SyncDate\SyncDate\obj\x64\Release\netcoreapp3.1\SyncDate.csproj.CoreCompileInputs.cache
+F:\vs19Dev\.NetCore3.1\SyncDate\SyncDate\obj\x64\Release\netcoreapp3.1\SyncDate.dll
+F:\vs19Dev\.NetCore3.1\SyncDate\SyncDate\obj\x64\Release\netcoreapp3.1\SyncDate.pdb
+F:\vs19Dev\.NetCore3.1\SyncDate\SyncDate\obj\x64\Release\netcoreapp3.1\SyncDate.genruntimeconfig.cache
